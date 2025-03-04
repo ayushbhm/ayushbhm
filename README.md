@@ -66,7 +66,8 @@ Hey! I’m a guy who likes building multiple things, sometimes for fun, sometime
 ---
 
 ### Connect With Me
-- **LinkedIn:** [Ayush](https://www.linkedin.com/in/ayushbhm/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/ayush-verma-bhm/" target="_blank">Ayush</a>
+
 
 
 
