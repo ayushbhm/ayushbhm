@@ -51,7 +51,7 @@ Hey! I’m a guy who likes building multiple things, sometimes for fun, sometime
 ---
 
 ### Few Notable Projects(Actually not)
-- **[Library Prototype](https://github.com/ayushbhm/Library_Vue)**: A responsive frontend project focused on efficient library resource management.
+- **[Library Prototype](https://github.com/ayushbhm/LibraTrack)**: A responsive frontend project focused on efficient library resource management.
 - **[Music Streaming App](https://github.com/ayushbhm/Music_streaming)**: A full-stack application built with Vue.js and Flask for multi-user streaming and dynamic playlists.
 - **[Grocery Store Prototype ](https://github.com/ayushbhm/Grocery_store)**: A robust backend solution for inventory and sales tracking.
 
